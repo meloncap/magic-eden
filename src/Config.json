@@ -14,7 +14,7 @@
         "magicEden": {
             "sac": "https://qi8ok3f41j.execute-api.ca-central-1.amazonaws.com/prod/getsacfloorprice",
             "nac": "https://qi8ok3f41j.execute-api.ca-central-1.amazonaws.com/prod/getnacfloorprice",
-            "collectionStats": "http://api-mainnet.magiceden.dev/v2/collections"
+            "collectionStats": "https://qi8ok3f41j.execute-api.ca-central-1.amazonaws.com/prod/getcollectionslist/"
         },
         "sac": {
             "marketcap": "https://qi8ok3f41j.execute-api.ca-central-1.amazonaws.com/prod/getpuffmarketcap"
