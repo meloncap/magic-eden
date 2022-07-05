@@ -7,7 +7,7 @@ function Footer(props) {
     return ( 
         <div className="footer">
             <div className="footer-content">
-                <p className="footer-txt">&copy; Puffalytics</p>
+                <p className="footer-txt">&copy; Angelytics</p>
                 <ul className="footer-list">
                 <Link to="/sactools" style={{ textDecoration: 'none' }}>
                     <li className="footer-list-item">
