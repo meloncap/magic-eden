@@ -28,7 +28,7 @@ function Home() {
         <div className='home'>
             <div className="home-hero">
                 <div className="home-content-container">
-                    <h1 className="home-heading">We like JPEGS.</h1>
+                    <h1 className="home-heading">We like Pic.</h1>
                     <h2 className="home-subheading">We are a collective of Analysts, Developers, Holders and Degenerates providing analytics and insights into NFT projects on Solana.</h2>
                 </div>
             </div>
